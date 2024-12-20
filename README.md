@@ -1,10 +1,10 @@
-hi welcome,
-i'm interested in poetry
-and all the places it lives.
-
-i'm big time developping novice
-but eager to learn, so 
-please teach me something
-
-love,
-arto
+<p>hi welcome,</p>
+<p>i'm interested in poetry</p>
+<p>and all the places it lives.</p>
+<hr />
+<p>i'm big time developping novice</p>
+<p>but eager to learn, so</p>
+<p>please teach me something</p>
+<br />
+<p>love,</p>
+<p>arto</p>
